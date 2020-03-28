@@ -1,0 +1,1 @@
+<a href="edit.php?post_type=emails&excel=1" style="float: right;margin-left: 10px;" class="button-primary" id="reporteexcelsuscriptflech">Exportar a Excel<a>

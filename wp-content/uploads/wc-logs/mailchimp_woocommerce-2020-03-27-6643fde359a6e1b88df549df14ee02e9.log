@@ -1,0 +1,2192 @@
+2020-03-27T01:01:22+00:00 DEBUG product_submit.debug :: #2677 :: Array
+(
+    [id] => 2677
+    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta.
+    [handle] => zapato-duque-de-galliano-modelo-26-3106
+    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106
+    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+    [variants] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2677
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta.
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106
+                    [sku] => 26-3106
+                    [price] => 1699
+                    [inventory_quantity] => 1000000
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [1] => Array
+                (
+                    [id] => 2690
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 25
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=25
+                    [sku] => 7000002579767
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [2] => Array
+                (
+                    [id] => 2691
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 25-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=25-5
+                    [sku] => 7000002579774
+                    [price] => 1699
+                    [inventory_quantity] => 2
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [3] => Array
+                (
+                    [id] => 2692
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 26
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=26
+                    [sku] => 7000002579781
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [4] => Array
+                (
+                    [id] => 2693
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 26-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=26-5
+                    [sku] => 7000002579798
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [5] => Array
+                (
+                    [id] => 2694
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 27
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=27
+                    [sku] => 7000002579804
+                    [price] => 1699
+                    [inventory_quantity] => 3
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [6] => Array
+                (
+                    [id] => 2695
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 27-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=27-5
+                    [sku] => 7000002579811
+                    [price] => 1699
+                    [inventory_quantity] => 3
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [7] => Array
+                (
+                    [id] => 2697
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 28-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=28-5
+                    [sku] => 7000002579835
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [8] => Array
+                (
+                    [id] => 2698
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 29
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=29
+                    [sku] => 7000002579842
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [9] => Array
+                (
+                    [id] => 2699
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 29-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=29-5
+                    [sku] => 7000002579859
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [10] => Array
+                (
+                    [id] => 2700
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 30
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=30
+                    [sku] => 7000002579866
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [11] => Array
+                (
+                    [id] => 2701
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 25
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=25
+                    [sku] => 7000002579941
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [12] => Array
+                (
+                    [id] => 2702
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 25-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=25-5
+                    [sku] => 7000002579958
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [13] => Array
+                (
+                    [id] => 2703
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 26
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=26
+                    [sku] => 7000002579965
+                    [price] => 1699
+                    [inventory_quantity] => 2
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [14] => Array
+                (
+                    [id] => 2704
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 26-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=26-5
+                    [sku] => 7000002579972
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [15] => Array
+                (
+                    [id] => 2705
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 27
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=27
+                    [sku] => 7000002579989
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [16] => Array
+                (
+                    [id] => 2706
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 27-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=27-5
+                    [sku] => 7000002579996
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [17] => Array
+                (
+                    [id] => 2707
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 28
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=28
+                    [sku] => 7000002580008
+                    [price] => 1699
+                    [inventory_quantity] => 2
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [18] => Array
+                (
+                    [id] => 2708
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 28-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=28-5
+                    [sku] => 7000002580015
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [19] => Array
+                (
+                    [id] => 2709
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 29
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=29
+                    [sku] => 7000002580022
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [20] => Array
+                (
+                    [id] => 2710
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 29-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=29-5
+                    [sku] => 7000002580039
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [21] => Array
+                (
+                    [id] => 2711
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 30
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=30
+                    [sku] => 7000002580046
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+        )
+
+    [published_at_foreign] => 2019-07-23 16:33:19
+)
+
+2020-03-27T01:01:22+00:00 NOTICE product_submit.error :: addStoreProduct :: #2677 :: Error Code 500 :: CURL error :: SSL certificate problem: unable to get local issuer certificate on 1610 in C:\wamp64\www\desvan\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2020-03-27T16:27:36+00:00 DEBUG product_submit.debug :: #3251 :: Array
+(
+    [id] => 3251
+    [title] => Edición especial
+    [handle] => edicion-especial
+    [url] => http://localhost/desvan/?product=edicion-especial
+    [image_url] => http://localhost/desvan/wp-content/uploads/2020/03/editado.png
+    [variants] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3251
+                    [title] => Edición especial
+                    [url] => http://localhost/desvan/?product=edicion-especial
+                    [sku] => HJ5656
+                    [price] => 599
+                    [inventory_quantity] => 1000000
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2020/03/editado.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+        )
+
+    [published_at_foreign] => 2020-03-27 15:26:52
+)
+
+2020-03-27T16:27:36+00:00 NOTICE product_submit.error :: addStoreProduct :: #3251 :: Error Code 500 :: CURL error :: SSL certificate problem: unable to get local issuer certificate on 1610 in C:\wamp64\www\desvan\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2020-03-27T16:28:23+00:00 DEBUG product_submit.debug :: #3251 :: Array
+(
+    [id] => 3251
+    [title] => Edición especial
+    [handle] => edicion-especial
+    [url] => http://localhost/desvan/?product=edicion-especial
+    [image_url] => http://localhost/desvan/wp-content/uploads/2020/03/editado.png
+    [variants] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3251
+                    [title] => Edición especial
+                    [url] => http://localhost/desvan/?product=edicion-especial
+                    [sku] => HJ5656
+                    [price] => 599
+                    [inventory_quantity] => 1000000
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2020/03/editado.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+        )
+
+    [published_at_foreign] => 2020-03-27 15:26:52
+)
+
+2020-03-27T16:28:23+00:00 NOTICE product_submit.error :: addStoreProduct :: #3251 :: Error Code 500 :: CURL error :: SSL certificate problem: unable to get local issuer certificate on 1610 in C:\wamp64\www\desvan\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2020-03-27T16:28:36+00:00 DEBUG product_submit.debug :: #3251 :: Array
+(
+    [id] => 3251
+    [title] => Edición especial
+    [handle] => edicion-especial
+    [url] => http://localhost/desvan/?product=edicion-especial
+    [image_url] => http://localhost/desvan/wp-content/uploads/2020/03/editado.png
+    [variants] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3251
+                    [title] => Edición especial
+                    [url] => http://localhost/desvan/?product=edicion-especial
+                    [sku] => HJ5656
+                    [price] => 599
+                    [inventory_quantity] => 1000000
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2020/03/editado.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+        )
+
+    [published_at_foreign] => 2020-03-27 15:26:52
+)
+
+2020-03-27T16:28:36+00:00 NOTICE product_submit.error :: addStoreProduct :: #3251 :: Error Code 500 :: CURL error :: SSL certificate problem: unable to get local issuer certificate on 1610 in C:\wamp64\www\desvan\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2020-03-27T17:13:56+00:00 DEBUG product_submit.debug :: #2677 :: Array
+(
+    [id] => 2677
+    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta.
+    [handle] => zapato-duque-de-galliano-modelo-26-3106
+    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106
+    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+    [variants] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2677
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta.
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106
+                    [sku] => 26-3106
+                    [price] => 1699
+                    [inventory_quantity] => 1000000
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [1] => Array
+                (
+                    [id] => 2690
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 25
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=25
+                    [sku] => 7000002579767
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [2] => Array
+                (
+                    [id] => 2691
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 25-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=25-5
+                    [sku] => 7000002579774
+                    [price] => 1699
+                    [inventory_quantity] => 2
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [3] => Array
+                (
+                    [id] => 2692
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 26
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=26
+                    [sku] => 7000002579781
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [4] => Array
+                (
+                    [id] => 2693
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 26-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=26-5
+                    [sku] => 7000002579798
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [5] => Array
+                (
+                    [id] => 2694
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 27
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=27
+                    [sku] => 7000002579804
+                    [price] => 1699
+                    [inventory_quantity] => 3
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [6] => Array
+                (
+                    [id] => 2695
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 27-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=27-5
+                    [sku] => 7000002579811
+                    [price] => 1699
+                    [inventory_quantity] => 3
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [7] => Array
+                (
+                    [id] => 2697
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 28-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=28-5
+                    [sku] => 7000002579835
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [8] => Array
+                (
+                    [id] => 2698
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 29
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=29
+                    [sku] => 7000002579842
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [9] => Array
+                (
+                    [id] => 2699
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 29-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=29-5
+                    [sku] => 7000002579859
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [10] => Array
+                (
+                    [id] => 2700
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 30
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=30
+                    [sku] => 7000002579866
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [11] => Array
+                (
+                    [id] => 2701
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 25
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=25
+                    [sku] => 7000002579941
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [12] => Array
+                (
+                    [id] => 2702
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 25-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=25-5
+                    [sku] => 7000002579958
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [13] => Array
+                (
+                    [id] => 2703
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 26
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=26
+                    [sku] => 7000002579965
+                    [price] => 1699
+                    [inventory_quantity] => 2
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [14] => Array
+                (
+                    [id] => 2704
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 26-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=26-5
+                    [sku] => 7000002579972
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [15] => Array
+                (
+                    [id] => 2705
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 27
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=27
+                    [sku] => 7000002579989
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [16] => Array
+                (
+                    [id] => 2706
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 27-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=27-5
+                    [sku] => 7000002579996
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [17] => Array
+                (
+                    [id] => 2707
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 28
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=28
+                    [sku] => 7000002580008
+                    [price] => 1699
+                    [inventory_quantity] => 2
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [18] => Array
+                (
+                    [id] => 2708
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 28-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=28-5
+                    [sku] => 7000002580015
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [19] => Array
+                (
+                    [id] => 2709
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 29
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=29
+                    [sku] => 7000002580022
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [20] => Array
+                (
+                    [id] => 2710
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 29-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=29-5
+                    [sku] => 7000002580039
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [21] => Array
+                (
+                    [id] => 2711
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 30
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=30
+                    [sku] => 7000002580046
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+        )
+
+    [published_at_foreign] => 2019-07-23 16:33:19
+)
+
+2020-03-27T17:13:56+00:00 NOTICE product_submit.error :: addStoreProduct :: #2677 :: Error Code 500 :: CURL error :: SSL certificate problem: unable to get local issuer certificate on 1610 in C:\wamp64\www\desvan\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2020-03-27T17:47:45+00:00 DEBUG product_submit.debug :: #2677 :: Array
+(
+    [id] => 2677
+    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta.
+    [handle] => zapato-duque-de-galliano-modelo-26-3106
+    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106
+    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+    [variants] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2677
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta.
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106
+                    [sku] => 26-3106
+                    [price] => 1699
+                    [inventory_quantity] => 1000000
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [1] => Array
+                (
+                    [id] => 2690
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 25
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=25
+                    [sku] => 7000002579767
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [2] => Array
+                (
+                    [id] => 2691
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 25-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=25-5
+                    [sku] => 7000002579774
+                    [price] => 1699
+                    [inventory_quantity] => 2
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [3] => Array
+                (
+                    [id] => 2692
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 26
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=26
+                    [sku] => 7000002579781
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [4] => Array
+                (
+                    [id] => 2693
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 26-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=26-5
+                    [sku] => 7000002579798
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [5] => Array
+                (
+                    [id] => 2694
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 27
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=27
+                    [sku] => 7000002579804
+                    [price] => 1699
+                    [inventory_quantity] => 3
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [6] => Array
+                (
+                    [id] => 2695
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 27-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=27-5
+                    [sku] => 7000002579811
+                    [price] => 1699
+                    [inventory_quantity] => 3
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [7] => Array
+                (
+                    [id] => 2697
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 28-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=28-5
+                    [sku] => 7000002579835
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [8] => Array
+                (
+                    [id] => 2698
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 29
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=29
+                    [sku] => 7000002579842
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [9] => Array
+                (
+                    [id] => 2699
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 29-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=29-5
+                    [sku] => 7000002579859
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [10] => Array
+                (
+                    [id] => 2700
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 30
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=30
+                    [sku] => 7000002579866
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [11] => Array
+                (
+                    [id] => 2701
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 25
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=25
+                    [sku] => 7000002579941
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [12] => Array
+                (
+                    [id] => 2702
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 25-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=25-5
+                    [sku] => 7000002579958
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [13] => Array
+                (
+                    [id] => 2703
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 26
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=26
+                    [sku] => 7000002579965
+                    [price] => 1699
+                    [inventory_quantity] => 2
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [14] => Array
+                (
+                    [id] => 2704
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 26-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=26-5
+                    [sku] => 7000002579972
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [15] => Array
+                (
+                    [id] => 2705
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 27
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=27
+                    [sku] => 7000002579989
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [16] => Array
+                (
+                    [id] => 2706
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 27-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=27-5
+                    [sku] => 7000002579996
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [17] => Array
+                (
+                    [id] => 2707
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 28
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=28
+                    [sku] => 7000002580008
+                    [price] => 1699
+                    [inventory_quantity] => 2
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [18] => Array
+                (
+                    [id] => 2708
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 28-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=28-5
+                    [sku] => 7000002580015
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [19] => Array
+                (
+                    [id] => 2709
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 29
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=29
+                    [sku] => 7000002580022
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [20] => Array
+                (
+                    [id] => 2710
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 29-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=29-5
+                    [sku] => 7000002580039
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [21] => Array
+                (
+                    [id] => 2711
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 30
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=30
+                    [sku] => 7000002580046
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+        )
+
+    [published_at_foreign] => 2019-07-23 16:33:19
+)
+
+2020-03-27T17:47:45+00:00 NOTICE product_submit.error :: addStoreProduct :: #2677 :: Error Code 500 :: CURL error :: SSL certificate problem: unable to get local issuer certificate on 1610 in C:\wamp64\www\desvan\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2020-03-27T17:49:17+00:00 DEBUG product_submit.debug :: #2677 :: Array
+(
+    [id] => 2677
+    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta.
+    [handle] => zapato-duque-de-galliano-modelo-26-3106
+    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106
+    [description] => [popup_anything id="3254"]
+    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+    [variants] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2677
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta.
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106
+                    [sku] => 26-3106
+                    [price] => 1699
+                    [inventory_quantity] => 1000000
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [1] => Array
+                (
+                    [id] => 2690
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 25
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=25
+                    [sku] => 7000002579767
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [2] => Array
+                (
+                    [id] => 2691
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 25-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=25-5
+                    [sku] => 7000002579774
+                    [price] => 1699
+                    [inventory_quantity] => 2
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [3] => Array
+                (
+                    [id] => 2692
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 26
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=26
+                    [sku] => 7000002579781
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [4] => Array
+                (
+                    [id] => 2693
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 26-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=26-5
+                    [sku] => 7000002579798
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [5] => Array
+                (
+                    [id] => 2694
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 27
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=27
+                    [sku] => 7000002579804
+                    [price] => 1699
+                    [inventory_quantity] => 3
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [6] => Array
+                (
+                    [id] => 2695
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 27-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=27-5
+                    [sku] => 7000002579811
+                    [price] => 1699
+                    [inventory_quantity] => 3
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [7] => Array
+                (
+                    [id] => 2697
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 28-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=28-5
+                    [sku] => 7000002579835
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [8] => Array
+                (
+                    [id] => 2698
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 29
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=29
+                    [sku] => 7000002579842
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [9] => Array
+                (
+                    [id] => 2699
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 29-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=29-5
+                    [sku] => 7000002579859
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [10] => Array
+                (
+                    [id] => 2700
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 30
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=30
+                    [sku] => 7000002579866
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [11] => Array
+                (
+                    [id] => 2701
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 25
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=25
+                    [sku] => 7000002579941
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [12] => Array
+                (
+                    [id] => 2702
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 25-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=25-5
+                    [sku] => 7000002579958
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [13] => Array
+                (
+                    [id] => 2703
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 26
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=26
+                    [sku] => 7000002579965
+                    [price] => 1699
+                    [inventory_quantity] => 2
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [14] => Array
+                (
+                    [id] => 2704
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 26-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=26-5
+                    [sku] => 7000002579972
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [15] => Array
+                (
+                    [id] => 2705
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 27
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=27
+                    [sku] => 7000002579989
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [16] => Array
+                (
+                    [id] => 2706
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 27-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=27-5
+                    [sku] => 7000002579996
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [17] => Array
+                (
+                    [id] => 2707
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 28
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=28
+                    [sku] => 7000002580008
+                    [price] => 1699
+                    [inventory_quantity] => 2
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [18] => Array
+                (
+                    [id] => 2708
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 28-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=28-5
+                    [sku] => 7000002580015
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [19] => Array
+                (
+                    [id] => 2709
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 29
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=29
+                    [sku] => 7000002580022
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [20] => Array
+                (
+                    [id] => 2710
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 29-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=29-5
+                    [sku] => 7000002580039
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [21] => Array
+                (
+                    [id] => 2711
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 30
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=30
+                    [sku] => 7000002580046
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+        )
+
+    [published_at_foreign] => 2019-07-23 16:33:19
+)
+
+2020-03-27T17:49:18+00:00 NOTICE product_submit.error :: addStoreProduct :: #2677 :: Error Code 500 :: CURL error :: SSL certificate problem: unable to get local issuer certificate on 1610 in C:\wamp64\www\desvan\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2020-03-27T17:53:44+00:00 DEBUG product_submit.debug :: #2677 :: Array
+(
+    [id] => 2677
+    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta.
+    [handle] => zapato-duque-de-galliano-modelo-26-3106
+    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106
+    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+    [variants] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2677
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta.
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106
+                    [sku] => 26-3106
+                    [price] => 1699
+                    [inventory_quantity] => 1000000
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [1] => Array
+                (
+                    [id] => 2690
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 25
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=25
+                    [sku] => 7000002579767
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [2] => Array
+                (
+                    [id] => 2691
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 25-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=25-5
+                    [sku] => 7000002579774
+                    [price] => 1699
+                    [inventory_quantity] => 2
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [3] => Array
+                (
+                    [id] => 2692
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 26
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=26
+                    [sku] => 7000002579781
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [4] => Array
+                (
+                    [id] => 2693
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 26-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=26-5
+                    [sku] => 7000002579798
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [5] => Array
+                (
+                    [id] => 2694
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 27
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=27
+                    [sku] => 7000002579804
+                    [price] => 1699
+                    [inventory_quantity] => 3
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [6] => Array
+                (
+                    [id] => 2695
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 27-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=27-5
+                    [sku] => 7000002579811
+                    [price] => 1699
+                    [inventory_quantity] => 3
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [7] => Array
+                (
+                    [id] => 2697
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 28-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=28-5
+                    [sku] => 7000002579835
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [8] => Array
+                (
+                    [id] => 2698
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 29
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=29
+                    [sku] => 7000002579842
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [9] => Array
+                (
+                    [id] => 2699
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 29-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=29-5
+                    [sku] => 7000002579859
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [10] => Array
+                (
+                    [id] => 2700
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 30
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=30
+                    [sku] => 7000002579866
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [11] => Array
+                (
+                    [id] => 2701
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 25
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=25
+                    [sku] => 7000002579941
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [12] => Array
+                (
+                    [id] => 2702
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 25-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=25-5
+                    [sku] => 7000002579958
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [13] => Array
+                (
+                    [id] => 2703
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 26
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=26
+                    [sku] => 7000002579965
+                    [price] => 1699
+                    [inventory_quantity] => 2
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [14] => Array
+                (
+                    [id] => 2704
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 26-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=26-5
+                    [sku] => 7000002579972
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [15] => Array
+                (
+                    [id] => 2705
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 27
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=27
+                    [sku] => 7000002579989
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [16] => Array
+                (
+                    [id] => 2706
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 27-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=27-5
+                    [sku] => 7000002579996
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [17] => Array
+                (
+                    [id] => 2707
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 28
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=28
+                    [sku] => 7000002580008
+                    [price] => 1699
+                    [inventory_quantity] => 2
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [18] => Array
+                (
+                    [id] => 2708
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 28-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=28-5
+                    [sku] => 7000002580015
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [19] => Array
+                (
+                    [id] => 2709
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 29
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=29
+                    [sku] => 7000002580022
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [20] => Array
+                (
+                    [id] => 2710
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 29-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=29-5
+                    [sku] => 7000002580039
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [21] => Array
+                (
+                    [id] => 2711
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 30
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=30
+                    [sku] => 7000002580046
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+        )
+
+    [published_at_foreign] => 2019-07-23 16:33:19
+)
+
+2020-03-27T17:53:44+00:00 NOTICE product_submit.error :: addStoreProduct :: #2677 :: Error Code 500 :: CURL error :: SSL certificate problem: unable to get local issuer certificate on 1610 in C:\wamp64\www\desvan\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2020-03-27T18:02:39+00:00 DEBUG product_submit.debug :: #2677 :: Array
+(
+    [id] => 2677
+    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta.
+    [handle] => zapato-duque-de-galliano-modelo-26-3106
+    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106
+    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+    [variants] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2677
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta.
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106
+                    [sku] => 26-3106
+                    [price] => 1699
+                    [inventory_quantity] => 1000000
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [1] => Array
+                (
+                    [id] => 2690
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 25
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=25
+                    [sku] => 7000002579767
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [2] => Array
+                (
+                    [id] => 2691
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 25-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=25-5
+                    [sku] => 7000002579774
+                    [price] => 1699
+                    [inventory_quantity] => 2
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [3] => Array
+                (
+                    [id] => 2692
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 26
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=26
+                    [sku] => 7000002579781
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [4] => Array
+                (
+                    [id] => 2693
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 26-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=26-5
+                    [sku] => 7000002579798
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [5] => Array
+                (
+                    [id] => 2694
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 27
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=27
+                    [sku] => 7000002579804
+                    [price] => 1699
+                    [inventory_quantity] => 3
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [6] => Array
+                (
+                    [id] => 2695
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 27-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=27-5
+                    [sku] => 7000002579811
+                    [price] => 1699
+                    [inventory_quantity] => 3
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [7] => Array
+                (
+                    [id] => 2697
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 28-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=28-5
+                    [sku] => 7000002579835
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [8] => Array
+                (
+                    [id] => 2698
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 29
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=29
+                    [sku] => 7000002579842
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [9] => Array
+                (
+                    [id] => 2699
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 29-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=29-5
+                    [sku] => 7000002579859
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [10] => Array
+                (
+                    [id] => 2700
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 30
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=30
+                    [sku] => 7000002579866
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [11] => Array
+                (
+                    [id] => 2701
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 25
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=25
+                    [sku] => 7000002579941
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [12] => Array
+                (
+                    [id] => 2702
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 25-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=25-5
+                    [sku] => 7000002579958
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [13] => Array
+                (
+                    [id] => 2703
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 26
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=26
+                    [sku] => 7000002579965
+                    [price] => 1699
+                    [inventory_quantity] => 2
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [14] => Array
+                (
+                    [id] => 2704
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 26-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=26-5
+                    [sku] => 7000002579972
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [15] => Array
+                (
+                    [id] => 2705
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 27
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=27
+                    [sku] => 7000002579989
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [16] => Array
+                (
+                    [id] => 2706
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 27-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=27-5
+                    [sku] => 7000002579996
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [17] => Array
+                (
+                    [id] => 2707
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 28
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=28
+                    [sku] => 7000002580008
+                    [price] => 1699
+                    [inventory_quantity] => 2
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [18] => Array
+                (
+                    [id] => 2708
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 28-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=28-5
+                    [sku] => 7000002580015
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [19] => Array
+                (
+                    [id] => 2709
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 29
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=29
+                    [sku] => 7000002580022
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [20] => Array
+                (
+                    [id] => 2710
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 29-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=29-5
+                    [sku] => 7000002580039
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [21] => Array
+                (
+                    [id] => 2711
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 30
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=30
+                    [sku] => 7000002580046
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+        )
+
+    [published_at_foreign] => 2019-07-23 16:33:19
+)
+
+2020-03-27T18:02:40+00:00 NOTICE product_submit.error :: addStoreProduct :: #2677 :: Error Code 500 :: CURL error :: SSL certificate problem: unable to get local issuer certificate on 1610 in C:\wamp64\www\desvan\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2020-03-27T18:05:13+00:00 DEBUG product_submit.debug :: #2677 :: Array
+(
+    [id] => 2677
+    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta.
+    [handle] => zapato-duque-de-galliano-modelo-26-3106
+    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106
+    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+    [variants] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2677
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta.
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106
+                    [sku] => 26-3106
+                    [price] => 1699
+                    [inventory_quantity] => 1000000
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [1] => Array
+                (
+                    [id] => 2690
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 25
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=25
+                    [sku] => 7000002579767
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [2] => Array
+                (
+                    [id] => 2691
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 25-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=25-5
+                    [sku] => 7000002579774
+                    [price] => 1699
+                    [inventory_quantity] => 2
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [3] => Array
+                (
+                    [id] => 2692
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 26
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=26
+                    [sku] => 7000002579781
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [4] => Array
+                (
+                    [id] => 2693
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 26-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=26-5
+                    [sku] => 7000002579798
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [5] => Array
+                (
+                    [id] => 2694
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 27
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=27
+                    [sku] => 7000002579804
+                    [price] => 1699
+                    [inventory_quantity] => 3
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [6] => Array
+                (
+                    [id] => 2695
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 27-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=27-5
+                    [sku] => 7000002579811
+                    [price] => 1699
+                    [inventory_quantity] => 3
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [7] => Array
+                (
+                    [id] => 2697
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 28-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=28-5
+                    [sku] => 7000002579835
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [8] => Array
+                (
+                    [id] => 2698
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 29
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=29
+                    [sku] => 7000002579842
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [9] => Array
+                (
+                    [id] => 2699
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 29-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=29-5
+                    [sku] => 7000002579859
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [10] => Array
+                (
+                    [id] => 2700
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Negro :: Talla = 30
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Negro&attribute_pa_talla=30
+                    [sku] => 7000002579866
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/26-3106-400x400.png
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [11] => Array
+                (
+                    [id] => 2701
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 25
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=25
+                    [sku] => 7000002579941
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [12] => Array
+                (
+                    [id] => 2702
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 25-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=25-5
+                    [sku] => 7000002579958
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [13] => Array
+                (
+                    [id] => 2703
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 26
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=26
+                    [sku] => 7000002579965
+                    [price] => 1699
+                    [inventory_quantity] => 2
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [14] => Array
+                (
+                    [id] => 2704
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 26-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=26-5
+                    [sku] => 7000002579972
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [15] => Array
+                (
+                    [id] => 2705
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 27
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=27
+                    [sku] => 7000002579989
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [16] => Array
+                (
+                    [id] => 2706
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 27-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=27-5
+                    [sku] => 7000002579996
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [17] => Array
+                (
+                    [id] => 2707
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 28
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=28
+                    [sku] => 7000002580008
+                    [price] => 1699
+                    [inventory_quantity] => 2
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [18] => Array
+                (
+                    [id] => 2708
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 28-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=28-5
+                    [sku] => 7000002580015
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [19] => Array
+                (
+                    [id] => 2709
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 29
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=29
+                    [sku] => 7000002580022
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [20] => Array
+                (
+                    [id] => 2710
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 29-5
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=29-5
+                    [sku] => 7000002580039
+                    [price] => 1699
+                    [inventory_quantity] => 0
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+            [21] => Array
+                (
+                    [id] => 2711
+                    [title] => Zapato de piel, corte italiano terminado bostoniano, suela de vaqueta. :: Color = Maple :: Talla = 30
+                    [url] => http://localhost/desvan/?product=zapato-duque-de-galliano-modelo-26-3106&attribute_color=Maple&attribute_pa_talla=30
+                    [sku] => 7000002580046
+                    [price] => 1699
+                    [inventory_quantity] => 1
+                    [image_url] => http://localhost/desvan/wp-content/uploads/2019/07/190A5577-400x400.jpg
+                    [backorders] => false
+                    [visibility] => visible
+                )
+
+        )
+
+    [published_at_foreign] => 2019-07-23 16:33:19
+)
+
+2020-03-27T18:05:13+00:00 NOTICE product_submit.error :: addStoreProduct :: #2677 :: Error Code 500 :: CURL error :: SSL certificate problem: unable to get local issuer certificate on 1610 in C:\wamp64\www\desvan\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php

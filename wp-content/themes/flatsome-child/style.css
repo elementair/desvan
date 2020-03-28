@@ -1,0 +1,1328 @@
+/*
+Theme Name: Flatsome Child
+Description: This is a child theme for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.0
+*/
+
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+@font-face {
+    font-family: 'bebasneue_bold';
+    src: url('https://desvan.mx/fuentes/bebasneue_bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'dosis_light';
+    src: url('https://desvan.mx/fuentes/dosis_light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'bebasneue-regular';
+    src: url('https://desvan.mx/fuentes/bebasneue-regular.ttf') format('truetype');
+}
+
+.header-top {
+    background-color: #352e28!important;
+    max-height: 25px;
+    padding-top: 10px;
+    background-color: #352e28!important;
+}
+
+.row-small>.flickity-viewport>.flickity-slider>.col,
+.row-small>.col {
+    padding: 0 10px 10px !important;
+}
+
+.product-thumbnails a {
+    cursor: pointer !important;
+}
+
+.row-dashed .col-inner,
+.row-solid .col-inner {
+    padding: 0px !important;
+}
+
+#section_1721058458 {
+    padding-bottom: 0px !important;
+}
+
+strong,
+b {
+    font-family: 'bebasneue_bold';
+    font-size: 1.5em !important;
+    font-weight: 900;
+}
+
+a>font>span {
+    font-size: 12px!important;
+    color: #2d2a26;
+    line-height: 28px!important;
+}
+
+li.has-dropdown:hover>.nav-current {
+    padding-right: 40px !important;
+    margin-right: 20px !important;
+}
+
+.form-flat input:not([type="submit"]),
+.form-flat textarea,
+.form-flat select {
+    background-color: #eee;
+}
+
+.col-inner {
+    background-color: rgba(255, 255, 255, 0) !important;
+    box-shadow: 0 3px 6px -4px rgba(0, 0, 0, 0), 0 3px 6px rgba(0, 0, 0, 0) !important;
+    color: #2d2a26;
+}
+
+.titulo {
+    font-size: 70px !important;
+    text-align: center;
+    color: #2d2a26;
+    /* 	padding-bottom:40px; */
+    font-family: 'dosis_light';
+}
+
+.texto_un {
+    font-size: 20px;
+    color: #000;
+    font-family: 'dosis_light';
+}
+
+.texto_un b {
+    font-size: 30px;
+    color: #000;
+    font-family: 'dosis_light';
+}
+
+.texto_contacto {
+    text-align: center;
+    font-size: 25px;
+    color: #000;
+    font-family: 'dosis_light';
+    line-height: 15px;
+    padding-top: 100px;
+    padding-right: 116px;
+    padding-bottom: 30px;
+}
+
+.texto_contacto b {
+    font-family: 'bebasneue-regular';
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+.titulo_cont {
+    font-size: 60px;
+    text-align: center;
+    color: #2d2a26;
+    padding-bottom: 40px;
+    font-family: 'dosis_light';
+}
+
+.titulo_contacto {
+    font-size: 30px;
+    color: #000;
+    font-family: 'dosis_light';
+}
+
+.titulo_inicio {
+    margin: 10px;
+    font-size: 40px;
+    text-align: center;
+    color: #2d2a26;
+    font-family: 'dosis_light';
+    line-height: 1.5em;
+}
+
+.titulo_inicio strong {
+    font-family: 'bebasneue-regular';
+    font-size: 40px;
+    color: #000;
+}
+
+.titulo_maletas {
+    padding: 20px;
+    font-size: 40px;
+    line-height: 1.3em;
+    text-align: left;
+    color: #E7E9E4 !important;
+    font-family: 'dosis_light';
+}
+
+.titulo_maletas strong {
+    color: #E7E9E4 !important;
+    font-size: 1.4em !important;
+    font-family: 'bebasneue_bold';
+    font-weight: 900 !important;
+}
+
+.titulo_tiendas {
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 4pt;
+    color: #000;
+    height: 100px;
+    text-shadow: 2px 2px 7px #696969;
+    font-family: 'dosis_light';
+    font-weight: 900;
+}
+
+.titulo_tiendas_contactos {
+    font-size: 20px;
+    text-align: right;
+    letter-spacing: 4pt;
+    color: #000;
+    font-family: 'dosis_light';
+    display: inline-flex;
+}
+
+.subtitulo {
+    border-top: 3px solid #000;
+    border-width: 0px;
+    /* 	line-height:10px; */
+    margin: 0px;
+    letter-spacing: 5px;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'bebasneue-regular';
+}
+
+.subtitulo_ini {
+    font-size: 25px;
+    letter-spacing: 5px;
+    font-family: 'bebasneue-regular';
+}
+
+.titulo_tiendas_contactos p {
+    margin-right: 30px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.has-hover .bg,
+.has-hover [class*="image-"] img {}
+
+.box {
+    background: #fff;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #00000010;
+    border-radius: 5px;
+}
+
+.box:hover {
+    box-shadow: 0px 2px 5px 1px #00000010;
+}
+
+.titulo_regalo_perfecto {
+    font-size: 20px;
+    padding: 20px 0px;
+    text-align: center;
+    letter-spacing: 4pt;
+    color: #000;
+    text-shadow: 2px 2px 7px #696969;
+    font-family: 'dosis_light';
+    font-weight: bold;
+}
+
+.titulo p {
+    display: inline;
+    font-family: 'dosis_light';
+}
+
+.is-divider {
+    margin-top: 4.5em !important;
+    width: 100%;
+    max-width: 30px;
+    position: absolute;
+    top: 46%;
+    z-index: -1;
+}
+
+.gyges .tp-thumb-img-wrap {
+    padding: 5px !important;
+    background-color: rgb(255, 255, 255, 80) !important;
+}
+
+.txt_uni {
+    color: #fff !important;
+    font-size: 1.2em !important;
+}
+
+.txt_uni2 {
+    color: #000 !important;
+    font-size: 20px !important;
+    text-align: center!important;
+    font-family: 'dosis_light';
+}
+
+div.pleca2 {
+    line-height: 0;
+    width: 0;
+    border-style: solid;
+    border-color: #00ffc9 #e1aa0d #00f #358497;
+    border-width: 0 50px 0 50px;
+    height: 20px;
+    box-shadow: 4px 0px 7px 3px #ccc;
+    display: inline-block;
+    margin-top: 0px;
+    position: absolute;
+}
+
+div.pleca_maletas {
+    line-height: 0;
+    width: 0;
+    border-style: solid;
+    border-color: #00ffc9 #e1aa0d #00f #358497;
+    border-width: 0 50px 0 50px;
+    height: 20px;
+    margin-right: 250px;
+    box-shadow: 4px 0px 7px 3px #0f0e0e80;
+    margin-bottom: 30px;
+}
+
+div.pleca {
+    line-height: 0;
+    border-style: solid;
+    border-color: #00ffc9 #e1aa0d #00f #358497;
+    border-width: 0 40px 0 40px;
+    height: 16px;
+    box-shadow: 4px 0px 7px 3px #ccc;
+    display: inline-block;
+    margin-top: -15px;
+}
+
+div.pleca_inicio {
+    width: 20px !important;
+    border-style: solid;
+    border-color: #e1aa0d #00ffc9 #358497 #00f;
+    border-width: 40px 0 !important;
+    box-shadow: 4px 0px 7px 3px #0f0e0e80;
+    display: inline-block;
+    right: 0;
+    top: 50%;
+    position: absolute;
+}
+
+div.pleca_txt_derecha {
+    /*padding-left:200px;*/
+    margin-top: -45px;
+    margin-bottom: -20px;
+}
+
+.mapa_redondo {
+    margin-top: 40px;
+    margin-bottom: -180px;
+}
+
+.titulo_formulario {
+    font-family: 'dosis_light';
+    margin-top: 100px;
+    font-size: 50px;
+    text-align: left;
+    padding-left: 150px;
+    color: #fff;
+}
+
+.titulo_formulario_contacto {
+    font-family: 'dosis_light';
+    margin-top: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    padding-left: 100px;
+    color: #000;
+}
+
+div.pleca_titulo_tiendas_iz {
+    width: 10px;
+    background-color: #e1aa0d;
+    height: 70px;
+    box-shadow: 4px 0px 7px 3px #ccc;
+    margin-top: -50px;
+}
+
+div.pleca_titulo_tiendas {
+    width: 10px;
+    background-color: #358497;
+    height: 70px;
+    box-shadow: 4px 0px 7px 3px #ccc;
+    margin-top: -50px;
+}
+
+.btn_ver_mas {
+    background-color: #e1aa0d;
+    width: 6%;
+    font-family: 'dosis_light';
+    border-radius: 10px !important;
+    height: 3%;
+    letter-spacing: 2pt;
+    text-shadow: 2px 2px 7px #696969;
+    color: #000 !important;
+}
+
+.mapa_redondo iframe {
+    width: 250px;
+    height: 250px;
+    border-radius: 200px;
+    /*Estandar*/
+    -webkit-border-radius: 100%;
+    /*Safari y Chrome*/
+    -moz-border-radius: 200px;
+    /*Firefox*/
+    -o-border-radius: 200px;
+    /*Opera*/
+    -ms-border-radius: 200px;
+    /*IE 8*/
+}
+
+iframe {
+    width: 250px;
+    height: 250px;
+    border-radius: 200px;
+    /*Estandar*/
+    -webkit-border-radius: 100%;
+    /*Safari y Chrome*/
+    -moz-border-radius: 200px;
+    /*Firefox*/
+    -o-border-radius: 200px;
+    /*Opera*/
+    -ms-border-radius: 200px;
+    /*IE 8*/
+}
+
+.icono_form {
+    width: 45%;
+}
+
+.icono_form img {}
+
+.primary {
+    background-color: #dea408 !important;
+    border-radius: 8px !important;
+    box-shadow: 0px 5px 5px 1px #0000004d;
+    color: #000 !important;
+    font-size: 12px !important;
+    letter-spacing: 2px;
+    font-family: 'dosis_light'!important;
+}
+
+.flickity-enabled.is-draggable {
+    font-family: 'dosis_light' !important;
+}
+
+h1 {
+    font-family: 'dosis_light' !important;
+}
+
+.contacto_footer {
+    font-family: 'dosis_light' !important;
+}
+
+
+/* .tp-tabs, .tp-thumbs {
+	transform: matrix(0, 4, 4, 0, -499, -60);
+} */
+
+.tp-tabs,
+.tp-thumbs,
+.tp-bullets {
+    transform: matrix(1.5, 0, 0, 1.5, -150, -80) !important;
+}
+
+
+/* .tp-tabs, .tp-thumbs, .tp-bullets{
+	transform: matrix(0, 4, 4, 0, -488, -64);
+} */
+
+
+/* .tp-thumb-image {
+	transform: rotate(-90deg)!important;
+} */
+
+
+/* #rev_slider_2_2.gyges .tp-thumb{
+transform:  rotate(45deg);
+} */
+
+
+/* .slider-maletas .tp-thumbs{
+	transform: matrix(0, 4, 4, 0, -499, 6);
+} */
+
+body {
+    font-family: 'dosis_light'!important;
+}
+
+.gyges .tp-thumb-img-wrap {
+    background: #0000;
+    background: rgb(255, 255, 255, .50) !important;
+    border-radius: 5px;
+}
+
+.gyges .tp-thumb-image {
+    -webkit-box-shadow: inset 5px 5px 10px 0px rgba(0, 0, 0, 0);
+    -moz-box-shadow: inset 5px 5px 10px 0px rgba(0, 0, 0, 0);
+    box-shadow: inset 5px 5px 10px 0px rgba(0, 0, 0, 0);
+    z-index: 10;
+}
+
+.gyges .tp-thumb:hover .tp-thumb-img-wrap,
+.gyges .tp-thumb.selected .tp-thumb-img-wrap {
+    background: rgba(255, 255, 255, 1);
+    background: -moz-linear-gradient(top, rgba(255, 255, 255, 1) 0%, rgba(119, 119, 119, 1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255, 255, 255, 1)), color-stop(100%, rgba(119, 119, 119, 1)));
+    background: -webkit-linear-gradient(top, rgba(255, 255, 255, 1) 0%, rgba(119, 119, 119, 1) 100%);
+    background: -o-linear-gradient(top, rgba(255, 255, 255, 1) 0%, rgba(119, 119, 119, 1) 100%);
+    background: -ms-linear-gradient(top, rgba(255, 255, 255, 1) 0%, rgba(119, 119, 119, 1) 100%);
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(119, 119, 119, 0) 100%);
+    background: rgb(255, 255, 255, 50) !important;
+    border-radius: 5px;
+}
+
+.tparrows {
+    cursor: pointer;
+    background: #000;
+    background: rgba(0, 0, 0, 0.5);
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    display: inline-block;
+    z-index: 100;
+}
+
+
+/* FORMULARIO */
+
+.txt_hola {
+    font-family: 'dosis_light';
+    margin-top: 100px;
+    font-size: 50px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+}
+
+.txt_hola2 {
+    font-family: 'dosis_light';
+    margin-bottom: 20px;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: left;
+    padding-left: 100px;
+    color: #000;
+}
+
+h1.entry-title.mb {
+    display: none;
+}
+
+.form {
+    width: 42%;
+    margin: 4px;
+}
+
+.edit_text {
+    display: inline-flex;
+    margin-bottom: -7px;
+}
+
+.edit_text img {
+    margin: 1%;
+    float: left;
+    width: 28px;
+    height: 28px;
+}
+
+.visitanos_contactos {
+    margin-right: 20px;
+}
+
+.visitanos_contactos p {
+    display: inline-flex;
+    margin-bottom: 0em !important;
+}
+
+.visitanos_contactos img {
+    text-align: center;
+    height: 30px;
+    padding: 3px;
+}
+
+.contactos_icono {}
+
+.form-flat input:not([type="submit"]),
+.form-flat textarea,
+.form-flat select {
+    border-radius: 4px !important;
+}
+
+.col-inner.text-left.box-shadow-2 {
+    padding: 30px 60px 20px 30px !important;
+}
+
+input[type='submit'],
+input[type='submit'].button,
+input[type='submit'],
+.primary {
+    background-color: #f99c24 !important;
+    border-radius: 0px !important;
+    color: #000 !important;
+    white-space: nowrap;
+    border: 0px !important;
+    line-height: 35px;
+}
+
+.widget .current-cat>a {
+    color: #000;
+    font-weight: bolder;
+    width: 100%;
+}
+
+.button.icon.circle {
+    border-radius: 90px !important;
+}
+
+[data-icon-label]::after,
+.secondary.is-underline:hover,
+.secondary.is-outline:hover,
+.icon-label,
+.button.secondary:not(.is-outline),
+.button.alt:not(.is-outline),
+.badge-inner.on-sale,
+.button.checkout,
+.single_add_to_cart_button {
+    background-color: #f99c24 !important;
+    color: #000;
+    opacity: 1;
+    letter-spacing: 2px;
+}
+
+.widget_shopping_cart .button {
+    border-radius: 20px;
+    border: 1px solid #000;
+    color: #000;
+    opacity: 1;
+    letter-spacing: 2px;
+}
+
+select {
+    background-image: activecaption !important;
+    border-radius: 20px;
+}
+
+.header-wrapper:not(.stuck) .header-main .header-nav {
+    margin-top: 0px !important;
+}
+
+.menu-item>a:hover,
+.menu-item.active>a {
+    background-color: transparent !important;
+    color: rgba(17, 17, 17, 0.85);
+}
+
+.cart-item>a:hover,
+.menu-item.active>a {
+    background: transparent !important;
+}
+
+.nav>li.active>a {
+    opacity: 1;
+    color: #000!important;
+    background-color: #dea408 !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.heading-font,
+.off-canvas-center .nav-sidebar.nav-vertical>li>a {
+    font-family: 'dosis_light'!important;
+}
+
+[data-icon-label]::after {
+    top: 9px!important;
+    right: -2px!important;
+}
+
+.breadcrumbs {
+    text-transform: uppercase !important;
+}
+
+.widget_product_categories>ul>li {
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.nav-box>li.active>a,
+.nav-pills>li.active>a {
+    opacity: 1;
+    color: #000!important;
+    background-color: transparent !important;
+}
+
+iframe #mapDiv {
+    border-radius: 200px !important;
+    background: transparent !important;
+}
+
+.mapa_redondo_contactos {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.mapa_redondo_contactos iframe {
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    /*Estandar*/
+    -webkit-border-radius: 100%;
+    /*Safari y Chrome*/
+    -moz-border-radius: 200px;
+    /*Firefox*/
+    -o-border-radius: 200px;
+    /*Opera*/
+    -ms-border-radius: 200px;
+    /*IE 8*/
+}
+
+.header-bg-color,
+.header-wrapper {
+    background-color: #F2F2F2 !important;
+}
+
+.header-wrapper.stuck,
+.header-shadow .header-wrapper,
+.layout-shadow #wrapper {
+    text-shadow: none !important;
+}
+
+.header-wrapper:not(.stuck) .header-main .header-nav {
+    /*     margin-top: 21px; */
+    /*border-bottom: 4px solid #358497;*/
+    bottom: 2px;
+}
+
+.contactos_tienda {
+    font-family: 'dosis_light';
+}
+
+.pleca_contactos {
+    width: 10px !important;
+    border-style: solid;
+    border-color: #288bb9 #00ffc9 #288bb9 #00f;
+    border-width: 76px 0 !important;
+    line-height: 180 !important;
+    box-shadow: 3px 0px 4px 3px #ddd;
+    display: inherit;
+    top: 50%;
+    margin: 0px 40px;
+    margin-top: -24px;
+}
+
+.header-main .nav>li>a {
+    font-family: 'dosis_light' !important;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.pleca_contactos_yellow {
+    width: 10px !important;
+    border-style: solid;
+    border-color: #dea408 #00ffc9 #dea408 #00f;
+    border-width: 69px 0 !important;
+    line-height: 150px !important;
+    box-shadow: 3px 0px 4px 3px #ddd;
+    display: inherit;
+    top: 97%;
+    margin: 0 10px;
+    margin-top: -24px;
+    margin-left: 20px;
+}
+
+.col_mContacto {
+    display: inline-flex;
+    color: #000;
+}
+
+.footer-secondary {
+    padding: 2px !important;
+}
+
+.footer-secondary img {
+    width: 150px;
+}
+
+.absolute-footer,
+html {
+    background-color: #1F1F1F !important;
+}
+
+.absolute-footer.dark {
+    color: rgb(255, 255, 255);
+}
+
+
+/* Common general styles go here */
+
+
+/* Mobiles in Potrait mode */
+
+.nuestras_tiendas {
+    width: 100%;
+    position: relative;
+    display: inline-block;
+}
+
+.box-text p {
+    border-top: 1px solid #592e2d;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 100% !important;
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="tel"],
+textarea {
+    width: 100% !important;
+    color: #000;
+    border: 1px solid #ccc;
+    border-radius: 0px !important;
+}
+
+textarea {
+    width: 100% !important;
+    height: 105px !important;
+    color: #000;
+    border-radius: 0px !important;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="password"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+textarea:focus {
+    border: 1px solid #97c11f;
+}
+
+.dark .form-flat input:not([type="submit"]),
+.dark .form-flat textarea,
+.dark .form-flat select,
+.nav-dark .form-flat input:not([type="submit"]),
+.nav-dark .form-flat textarea,
+.nav-dark .form-flat select {
+    background-color: rgba(255, 255, 255, 1) !important;
+    color: #000 !important;
+}
+
+.row_tiendas {
+    display: inline-flex;
+    position: relative;
+}
+
+.contenedor_formulario {
+    display: inline-flex;
+}
+
+.icon-box-img svg,
+.icon-box-img img {
+    margin-top: -5px;
+    margin-bottom: 8px;
+}
+
+.last-reset :last-child {
+    margin-top: 1px !important;
+}
+
+.is-xlarge {
+    font-size: 1.5em;
+    margin-bottom: 15px !important;
+}
+
+.woocommerce-ordering,
+.woocommerce-ordering select {
+    width: 250px !important;
+}
+
+@media only screen and (max-width: 360px) {
+    /* Add you style here */
+    .last-reset :last-child {
+        margin-top: 3px !important;
+    }
+    .txt_uni2 {
+        font-size: 14px !important;
+    }
+    .texto_contacto {
+        text-align: center;
+        font-size: 20px;
+        color: #000;
+        font-family: 'dosis_light';
+        line-height: 27px;
+        padding-top: 0;
+        padding-right: 0px;
+        padding-bottom: 25px;
+    }
+    div.pleca {
+        display: none;
+    }
+    div.pleca2 {
+        display: none;
+    }
+    .contenedor_formulario {
+        display: block;
+    }
+    .txt_hola {
+        padding-left: 0px;
+        margin-top: 0px;
+    }
+    .txt_hola2 {
+        padding-left: 0px;
+    }
+    .titulo_inicio {
+        font-size: 30px!important;
+        line-height: 48px!important;
+        text-align: center;
+        padding-left: 20px;
+    }
+    .titulo_inicio strong {
+        font-size: 40px !important;
+        line-height: 20px !important;
+    }
+    div.pleca_txt_derecha {
+        /*padding-left: 80px !important;*/
+        margin-top: 0px !important;
+        display: inline-flex;
+    }
+    .subtitulo {
+        line-height: 16px !important;
+        font-size: 28px;
+        letter-spacing: 3;
+        text-align: center;
+    }
+    .tp-tabs,
+    .tp-thumbs,
+    .tp-bullets {
+        transform: matrix(1, 0, 0, 1, -145, -35) !important;
+    }
+    .titulo_maletas {
+        font-size: 18px!important;
+        text-align: center !important;
+        color: #E7E9E4 !important;
+    }
+    .titulo_maletas strong {
+        text-align: center;
+    }
+    .titulo {
+        font-size: 30px !important;
+    }
+    .titulo_cont {
+        font-size: 30px;
+    }
+    .titulo_formulario {
+        margin-top: 50px;
+        font-size: 30px;
+        text-align: center;
+        padding-left: 0px;
+    }
+    .btn_ver_mas {
+        width: 40%;
+        border-radius: 10px !important;
+        height: 1%;
+        letter-spacing: 1pt;
+    }
+    .titulo_regalo_perfecto {
+        font-size: 20px;
+        letter-spacing: 1pt;
+    }
+    .titulo_tiendas {
+        font-size: 20px;
+        letter-spacing: 1pt;
+        height: 60px;
+    }
+    .mapa_redondo {
+        margin-top: 10px;
+        margin-bottom: 0px;
+    }
+    .form {
+        width: 100%;
+    }
+    .edit_text {
+        width: 100%;
+    }
+    .col-inner.text-left.box-shadow-2 {
+        padding: 5px 5px 5px 5px !important;
+    }
+    div.pleca_inicio {
+        width: 14px !important;
+        border-width: 30px 0 !important;
+        top: 14%;
+    }
+    div.pleca2 {
+        border-width: 0 35px 0 35px;
+        height: 18px;
+    }
+    div.pleca {
+        border-width: 0 35px 0 35px;
+        height: 18px;
+    }
+    .header-main .nav>li>a {
+        line-height: 50px;
+    }
+    .box {
+        margin: 15px;
+        width: 90%;
+    }
+}
+
+.flickity-prev-next-button.next {
+    right: 0% !important;
+}
+
+.flickity-prev-next-button.previous {
+    left: 0% !important;
+}
+
+
+/* Mobiles in landscape mode */
+
+@media only screen and (min-width: 361px) and (max-width: 480px) {
+    .last-reset :last-child {
+        margin-top: 3px !important;
+    }
+    .txt_uni2 {
+        font-size: 13px !important;
+    }
+    div.pleca {
+        display: none;
+    }
+    div.pleca2 {
+        display: none;
+    }
+    .box {
+        width: 95%;
+    }
+    .header-main .nav>li>a {
+        line-height: 50px;
+    }
+    .contenedor_formulario {
+        display: block;
+    }
+    .txt_hola {
+        padding-left: 0px;
+        margin-top: 0px;
+    }
+    .txt_hola2 {
+        padding-left: 0px;
+    }
+    /* Add you style here */
+    .subtitulo {
+        line-height: 35px !important;
+        font-size: 30px;
+        letter-spacing: 3;
+        text-align: center;
+    }
+    .titulo_inicio {
+        font-size: 30px !important;
+        line-height: 40px!important;
+        text-align: center;
+        padding-left: 20px;
+    }
+    .titulo_inicio strong {
+        font-size: 40px !important;
+        line-height: 30px!important;
+    }
+    div.pleca_txt_derecha {
+        /*padding-left: 80px !important;*/
+        margin-top: 0px !important;
+        display: inline-flex;
+    }
+    .tp-tabs,
+    .tp-thumbs,
+    .tp-bullets {
+        transform: matrix(1, 0, 0, 1, -145, -30) !important;
+    }
+    .titulo_maletas {
+        font-size: 20px !important;
+        text-align: center !important;
+        color: #E7E9E4 !important;
+    }
+    .texto_contacto {
+        text-align: center;
+        font-size: 20px;
+        color: #000;
+        font-family: 'dosis_light';
+        line-height: 27px;
+        padding-top: 0;
+        padding-right: 0px;
+        padding-bottom: 25px;
+    }
+    div.pleca_maletas {
+        /* 		margin-right: 160px!important; */
+    }
+    .titulo_maletas strong {
+        text-align: center;
+    }
+    .titulo {
+        font-size: 35px !important;
+    }
+    .titulo_cont {
+        font-size: 35px !important;
+    }
+    .titulo_formulario {
+        margin-top: 50px;
+        font-size: 40px;
+        text-align: center;
+        padding-left: 0px;
+    }
+    .btn_ver_mas {
+        width: 30%;
+        border-radius: 10px !important;
+        height: 1%;
+        letter-spacing: 1pt;
+    }
+    .titulo_regalo_perfecto {
+        font-size: 20px;
+        letter-spacing: 1pt;
+    }
+    .titulo_tiendas {
+        font-size: 23px;
+        letter-spacing: 1pt;
+        height: 60px;
+    }
+    .mapa_redondo {
+        margin-top: 10px;
+        margin-bottom: 0px;
+    }
+    .form {
+        width: 100%;
+    }
+    .edit_text {
+        width: 100%;
+    }
+    .col-inner.text-left.box-shadow-2 {
+        padding: 5px 5px 5px 5px !important;
+    }
+}
+
+@media only screen and (min-width: 481px) and (max-width: 800px) {
+    .flickity-prev-next-button.next {
+        right: 0% !important;
+    }
+    .flickity-prev-next-button.prev {
+        left: 0% !important;
+    }
+    .titulo_inicio {
+        font-size: 55px !important;
+        line-height: 90px!important;
+    }
+    .txt_hola {
+        margin-top: 10px;
+    }
+    .titulo_inicio strong {
+        font-size: 70px !important;
+    }
+    .subtitulo {
+        line-height: 20px !important;
+        text-align: left;
+        padding-left: 20px;
+    }
+    div.pleca_txt_derecha {
+        /*padding-left:40px !important;*/
+        margin-top: -15px!important;
+    }
+    .tp-tabs,
+    .tp-thumbs,
+    .tp-bullets {
+        transform: matrix(2, 0, 0, 2, -145, -35) !important;
+    }
+    .titulo_maletas {
+        font-size: 30px !important;
+        text-align: center !important;
+        color: #E7E9E4 !important;
+    }
+    .titulo_maletas strong {
+        text-align: center;
+    }
+    .titulo {
+        font-size: 50 !important;
+    }
+    .titulo_cont {
+        font-size: 50 !important;
+    }
+    .titulo_formulario {
+        margin-top: 50px;
+        font-size: 40px;
+        text-align: center;
+        padding-left: 0px;
+    }
+    .btn_ver_mas {
+        width: 30%;
+        border-radius: 10px !important;
+        height: 1%;
+        letter-spacing: 1pt;
+    }
+    .titulo_regalo_perfecto {
+        font-size: 30px;
+        letter-spacing: 1pt;
+    }
+    .titulo_tiendas {
+        font-size: 25px;
+        letter-spacing: 1pt;
+        height: 60px;
+    }
+    .mapa_redondo {
+        margin-top: 10px;
+        margin-bottom: 0px;
+    }
+    .form {
+        width: 100%;
+    }
+    .edit_text {
+        width: 100%;
+    }
+    .col-inner.text-left.box-shadow-2 {
+        padding: 5px 5px 5px 5px !important;
+    }
+}
+
+
+/* Tablets */
+
+@media only screen and (min-width: 801px) and (max-width: 1024px) {
+    /* Add you style here */
+    .titulo_inicio {
+        font-size: 50px !important;
+        line-height: 90px !important;
+    }
+    .titulo_inicio strong {
+        /*
+		padding-left:150px!important;*/
+        font-size: 55px!important;
+    }
+    div.pleca_txt_derecha {
+        /*padding-left:40px;*/
+        margin-top: -15px;
+    }
+    .tp-tabs,
+    .tp-thumbs,
+    .tp-bullets {
+        transform: matrix(2, 0, 0, 2, -145, -40) !important;
+    }
+    .titulo_maletas {
+        font-size: 33px !important;
+        text-align: center !important;
+        color: #E7E9E4 !important;
+    }
+    .titulo_maletas strong {}
+    .titulo {
+        font-size: 40px !important;
+    }
+    .titulo_cont {
+        font-size: 40px !important;
+    }
+    .titulo_formulario {
+        margin-top: 50px;
+        font-size: 30px;
+    }
+    .btn_ver_mas {
+        width: 30%;
+        border-radius: 10px !important;
+        height: 1%;
+        letter-spacing: 1pt;
+    }
+    .titulo_regalo_perfecto {
+        font-size: 20px;
+        letter-spacing: 1pt;
+    }
+    .titulo_tiendas {
+        font-size: 23px;
+        letter-spacing: 1pt;
+        height: 60px;
+    }
+    .mapa_redondo {
+        margin-top: 10px;
+        margin-bottom: 0px;
+    }
+    .form {
+        width: 100%;
+    }
+    .edit_text {
+        width: 100%;
+    }
+}
+
+
+/* Desktops and laptops computers */
+
+@media only screen and (min-width: 1025px) and (max-width: 1600px) {
+    /* Add you style here */
+    .titulo {
+        font-size: 50px !important;
+        line-height: 70px !important;
+        padding-bottom: 40px;
+    }
+    .subtitulo_ini {
+        font-size: 25px !important;
+    }
+    .txt_uni2 {
+        font-size: 16px !important;
+    }
+    .titulo_cont {
+        font-size: 50px !important;
+    }
+    .titulo_inicio {
+        font-size: 45px !important;
+        line-height: 60px !important;
+    }
+    .titulo_inicio strong {
+        /*padding-left:150px !important;*/
+        font-size: 55px !important;
+    }
+    .titulo_maletas {
+        font-size: 40px!important;
+    }
+    .titulo_maletas strong {}
+    .titulo_tiendas {
+        font-size: 28px;
+    }
+    .tp-tabs,
+    .tp-thumbs,
+    .tp-bullets {
+        transform: matrix(1.3, 0, 0, 1.3, -150, -65) !important;
+    }
+    .texto_contacto {
+        font-size: 20px;
+        line-height: 13px;
+    }
+}
+
+
+/* very large screen devices */
+
+@media only screen and (min-width: 1824px) {
+    /* Add you style here */
+}
+
+
+/* For print */
+
+@media print {
+    /* Add your style here */
+}

@@ -1,0 +1,8 @@
+[22-Oct-2019 10:24:06 America/Chicago] PHP Warning:  require(/home2/desvanmx/public_html/wp-includes/load.php): failed to open stream: No such file or directory in /home2/desvanmx/public_html/wp-settings.php on line 19
+[22-Oct-2019 10:24:06 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home2/desvanmx/public_html/wp-includes/load.php' (include_path='.:/opt/php54/lib/php') in /home2/desvanmx/public_html/wp-settings.php on line 19
+[22-Oct-2019 10:37:35 America/Chicago] PHP Warning:  require(/home2/desvanmx/public_html/wp-includes/load.php): failed to open stream: No such file or directory in /home2/desvanmx/public_html/wp-settings.php on line 19
+[22-Oct-2019 10:37:35 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home2/desvanmx/public_html/wp-includes/load.php' (include_path='.:/opt/php54/lib/php') in /home2/desvanmx/public_html/wp-settings.php on line 19
+[22-Jan-2020 20:02:28 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home2/desvanmx/public_html/wp-includes/class-wp-query.php on line 2197
+[22-Jan-2020 22:35:22 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home2/desvanmx/public_html/wp-includes/class-wp-query.php on line 2197
+[31-Jan-2020 23:12:21 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home2/desvanmx/public_html/wp-includes/class-wp-query.php on line 2197
+[31-Jan-2020 23:12:21 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home2/desvanmx/public_html/wp-includes/class-wp-query.php on line 2197
